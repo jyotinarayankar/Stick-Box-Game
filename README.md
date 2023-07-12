@@ -1,6 +1,6 @@
 # Stick Box Game
 
-Stick Box Game is a simple arcade game implemented in Python using the Pygame library. The goal of the game is to control a stick figure and navigate through a series of pipes without colliding with them. The player earns points for successfully passing through the pipes.
+Stick Box Game is a simple arcade game implemented in Python using the Pygame library. The goal of the game is to control a box figure and navigate through a series of sticks/pipes without colliding with them. The player earns points for successfully passing through the sticks/pipes.
 
 ## Installation
 
@@ -16,10 +16,10 @@ To play the Stick Box Game, follow these steps:
 ## Gameplay
 
 - To start the game, tap on the screen or press any key.
-- Control the stick figure by pressing the spacebar or clicking the mouse. This will make the stick figure flap and move upwards.
-- Navigate the stick figure through the gaps between the pipes.
-- Earn points for each successfully passed pipe.
-- If the stick figure collides with a pipe or goes out of bounds, the game is over.
+- Control the box figure by pressing the spacebar or clicking the mouse. This will make the box figure flap and move upwards.
+- Navigate the box figure through the gaps between the sticks/pipes.
+- Earn points for each successfully passed stick/pipe.
+- If the box figure collides with a pipe or goes out of bounds, the game is over.
 - After the game ends, you can press the spacebar or click the mouse to play again as the same player.
 - Press the 'R' key to change the player name and play again.
 - Press the 'Q' key to quit the game.
@@ -27,7 +27,7 @@ To play the Stick Box Game, follow these steps:
 ## Controls
 
 - Tap on the screen or press any key to start the game.
-- Press the spacebar or click the mouse to control the stick figure.
+- Press the spacebar or click the mouse to control the box figure.
 
 ## Dependencies
 
